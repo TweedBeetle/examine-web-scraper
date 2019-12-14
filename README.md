@@ -1,4 +1,3 @@
 # Web scraper for examine.com
-The purpose of this scraper was the aggregation and sorting of supplment information from examine.com
-[DEPRECATED]
+[Deprecated] a web scraper for the purpose of aggregating and sorting supplment information from examine.com 
 scraping code located in examine/spiders/examine_spider.py
